@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "hhttp://localhost:8081/repository/annorjenkins/"
+    "registry": "http://localhost:8081/repository/annorjenkins/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
